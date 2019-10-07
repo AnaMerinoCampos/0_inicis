@@ -1,5 +1,5 @@
 # 0_inicis
-Crear un repositoti
+Crear un repositorio
 
 ## Actividades
 * .[1_Sitioweb]()

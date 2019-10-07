@@ -1,5 +1,9 @@
 # 0_inicis
-Crear un repositoti 
+Crear un repositoti
+
+## Actividades
+* .[1_Sitioweb]()
+* .[2_CMYK]()
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)

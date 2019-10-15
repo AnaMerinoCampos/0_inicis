@@ -3,7 +3,7 @@ Crear un repositorio
 
 ## Actividades
 * .[1_Sitioweb](https://anamerinocampos.github.io/1SitioWeb/)
-* .[2_CMYK]()
+* .[2_CMYK]( https://anamerinocampos.github.io/2_CMYK/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)

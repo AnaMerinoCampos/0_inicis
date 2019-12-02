@@ -6,7 +6,7 @@ Crear un repositorio
 * .[2_CMYK]( https://anamerinocampos.github.io/2_CMYK/)
 * .[3_Broom](https://anamerinocampos.github.io/3_Broom/)
 * .[4_maquetacion](https://anamerinocampos.github.io/4_maquetacion/)
-* .[6_tarjetes] (https://anamerinocampos.github.io/6_tarjetes/)
+* .[6_tarjetes](https://anamerinocampos.github.io/6_tarjetes/)
 * .[7_landing_pages](https://anamerinocampos.github.io/7_landing_pages/)
 
 ## Pàginas clase

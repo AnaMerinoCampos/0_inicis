@@ -9,6 +9,7 @@ Crear un repositorio
 * .[6_tarjetes]( https://anamerinocampos.github.io/6_tarjetes/)
 * .[7_landing_pages](https://anamerinocampos.github.io/7_landing_pages/)
 * .[8_grid_moma](https://anamerinocampos.github.io/8_grid_moma/)
+* .[10_minimalissimo_shop](https://anamerinocampos.github.io/10_minimalissimo_shop/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)

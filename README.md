@@ -12,6 +12,7 @@ Crear un repositorio
 * .[10_minimalissimo_shop](https://anamerinocampos.github.io/10_minimalissimo_shop/)
 * .[11_transforms](https://anamerinocampos.github.io/11_transforms/)
 * .[12_madebyfieldwork](https://anamerinocampos.github.io/12_madebyfieldwork/)
+* .[12_examen](https://anamerinocampos.github.io/Examen/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)

@@ -13,7 +13,7 @@ Crear un repositorio
 * .[11_transforms](https://anamerinocampos.github.io/11_transforms/)
 * .[12_madebyfieldwork](https://anamerinocampos.github.io/12_madebyfieldwork/)
 * .[examen](https://anamerinocampos.github.io/Examen/)
-* .[14_documents_js] (https://anamerinocampos.github.io/14_document_js/)
+* .[14_documents_js](https://anamerinocampos.github.io/14_document_js/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)

@@ -16,6 +16,7 @@ Crear un repositorio
 * .[14_personal_js](https://anamerinocampos.github.io/14_personal_js/) *En local si que funciona, pero al subirlo da problemas el js
 * .[14_documents_js](https://anamerinocampos.github.io/14_document_js/)
 * .[15_parejas_02](https://anamerinocampos.github.io/15_parejas_02/)
+* .[16_portfolio](https://anamerinocampos.github.io/16_portfolio/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
